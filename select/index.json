@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "クリームで会いにいけますか",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2025-12-02T21:01:40.678286Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クリームで会いにいけますか",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_クリームで会いにいけますか_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "クリームで会いにいけますか",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_クリームで会いにいけますか_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
